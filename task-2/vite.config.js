@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
-  base: '/js-dom/task-2/',
+base: '/js-dom/',
   plugins: [
     tailwindcss(),
   ],
